@@ -1,4 +1,4 @@
-*Deutsch unter*/
+*Deutsch unter*\
 *English below*
 
 # Servicio automatico de subida de facturas para Amazon MWS
