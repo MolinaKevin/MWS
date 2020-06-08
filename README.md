@@ -1,7 +1,7 @@
 *Deutsch unter*\
 *English below*
 
-# Servicio automatico de subida de facturas para Amazon MWS
+# Subida automatica de facturas para Amazon MWS
 
 Este script esta basado en el cliente para PHP5 proveido por Amazon y contiene dos scripts:
 
