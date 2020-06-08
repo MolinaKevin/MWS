@@ -1,2 +1,2 @@
-# MWS
-Automatic invoice uploader in PHP
+# Amazon automatic invoice uploader
+Automatic invoice uploader in PHP 7.
